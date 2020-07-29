@@ -5,8 +5,8 @@
 packages <- c("tidyverse", "broom", "car", "caret", "corrr", "data.table", 
               "descr", "devtools", "gapminder", "ggpubr", "ggvis", "ggsci", 
               "glue", "gmodels", "gt", "here", "Hmisc", "hms", "janitor", 
-              "jsonlite", "kableExtra","knitr", "lattice", "librarian", 
-              "lubridate", "magrittr", "mice", "nortest", "nycflights13", 
+              "jsonlite", "kableExtra","knitr", "lattice", "lubridate", 
+              "magrittr", "mice", "nortest", "nycflights13", 
               "outliers", "palmerpenguins", "pROC", "psych", "RColorBrewer", 
               "Rcpp", "readxl", "ROCR", "shiny", "styler", "summarytools", 
               "usethis", "titanic")
