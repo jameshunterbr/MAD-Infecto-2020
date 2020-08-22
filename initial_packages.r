@@ -9,6 +9,6 @@ packages <- c("tidyverse", "broom", "car", "caret", "corrr", "data.table",
               "magrittr", "mice", "nortest", "nycflights13", 
               "outliers", "palmerpenguins", "pROC", "psych", "RColorBrewer", 
               "Rcpp", "readxl", "ROCR", "shiny", "styler", "summarytools", 
-              "usethis", "titanic")
+              "titanic", "triangle", "usethis")
 
 install.packages(packages)
